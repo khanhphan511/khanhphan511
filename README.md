@@ -45,8 +45,8 @@
 
 <h2>⚡ Electric Machines & Power Projects</h2>
 
-- <b>PMSynRM / IPMSM Design & Analysis (PEEC Lab)</b>  
-  - Designed PMSynRM and IPMSM geometries in Ansys Maxwell  
+- <b>SynRM / PMSynRM / IPMSM Design & Analysis (PEEC Lab)</b>  
+  - Designed SynRM, PMSynRM and IPMSM geometries in Ansys Maxwell  
   - Evaluated torque, losses, and saliency ratio for EV-style drives  
   - Built MATLAB workflows to post-process large FEA datasets and compare physics-informed neural networks to FEA  
 
@@ -56,7 +56,7 @@
 
 - <b>Robotics & Embedded</b>: ROS 2 Humble, Arduino (Mega/Uno), Jetson Orin Nano, OAK-D depth camera, 4D LiDAR  
 - <b>Programming</b>: Python, C, C++, VHDL, basic Java & Visual Basic  
-- <b>Simulation & Design</b>: MATLAB/Simulink, Ansys Maxwell, LTspice, PSpice, AutoCAD, Siemens NX  
+- <b>Simulation & Design</b>: MATLAB/Simulink, Ansys Maxwell, JMAG, RT LAB, LTspice, PSpice, AutoCAD, Siemens NX  
 - <b>Testing & Debugging</b>: Oscilloscope, multimeter, soldering, hardware bring-up, structured troubleshooting
 
 ---
