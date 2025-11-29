@@ -66,7 +66,6 @@
 - Best practices for deploying autonomous systems on embedded platforms (Jetson, microcontrollers)
 - Industrial vision automation concepts for manufacturing environments
 
----
 
 
 
