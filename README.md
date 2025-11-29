@@ -33,7 +33,7 @@
   - Built a two-node CAN network with Arduino + MCP2515 controllers  
   - IR distance sensor node sends measurements via CAN frames to a motor-control node  
   - Arduino C/C++ firmware adjusts motor PWM for speed control and braking at configurable stop thresholds  
-  - Repo: [can-adaptive-cruise-bench](https://github.com/<your-username>/can-adaptive-cruise-bench)
+  - Repo: [can-adaptive-cruise-bench](https://github.com/khanhphan511/can-adaptive-cruise-bench)
 
 - <b>Arduino-Based Drive & Steering Control</b>  
   - Developed Arduino Mega firmware to control traction and steering motors with PWM  
