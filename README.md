@@ -1,16 +1,97 @@
-## Hi there 👋
+<h1>Hi, I'm Khanh!<br/>
+<a href="https://github.com/<your-username>">Electrical Engineering Student</a>, 
+<a>Vision & Automation Enthusiast</a>, 
+<a>Robotics / Autonomous Vehicle Developer</a>
+</h1>
+
+🎓 I’m an Electrical Engineering student at Oakland University (graduating December 2025) focused on:
+- Scale autonomous vehicles (ride-on car → IGVC-style platform)
+- Machine vision & LiDAR-based obstacle detection
+- CAN-based motor control, embedded systems, and electric machines
+
+---
+
+<h2>🤖 Robotics & Autonomous Vehicle Projects</h2>
+
+- <b>Scale Autonomous Vehicle – Vision & Automation (ROS 2, 4D LiDAR, Depth Camera)</b>  
+  - ROS 2 Humble stack on Ubuntu 22.04 for a ride-on-car–based autonomous vehicle  
+  - OAK-D depth camera + 4D LiDAR for lane detection and obstacle ranging  
+  - Python nodes to compute lane offset / obstacle distance and publish steering & speed commands to Arduino-based motor controllers  
+  - ROS 2 drive-state debug indicators (Forward/Stop/Left/Right) and camera overlays to tune thresholds and control responses  
+  - Repo: [scale-autonomous-vehicle-ros2](https://github.com/khanhphan511/scale-autonomous-vehicle-ros2)
+
+- <b>Jetson Orin Nano Onboard Integration</b>  
+  - Migrated ROS 2 workspace from laptop VM to Jetson Orin Nano for fully onboard autonomy  
+  - Set up device recognition and communication for LiDAR and Arduino Mega over USB/CAN  
+  - Focus on headless startup and robust deployment for IGVC-style field tests  
+  - Repo: [jetson-orin-autonomy-setup](https://github.com/<your-username>/jetson-orin-autonomy-setup)
+
+---
+
+<h2>🚗 Embedded Control & CAN Projects</h2>
+
+- <b>Adaptive Cruise Control & Forward Collision Avoidance using CAN</b>  
+  - Built a two-node CAN network with Arduino + MCP2515 controllers  
+  - IR distance sensor node sends measurements via CAN frames to a motor-control node  
+  - Arduino C/C++ firmware adjusts motor PWM for speed control and braking at configurable stop thresholds  
+  - Repo: [can-adaptive-cruise-bench](https://github.com/<your-username>/can-adaptive-cruise-bench)
+
+- <b>Arduino-Based Drive & Steering Control</b>  
+  - Developed Arduino Mega firmware to control traction and steering motors with PWM  
+  - Integrated speed sensor feedback and implemented firm stop logic (e.g., `stopAll()`, `rearBrake()`, `steerBrake()`) for obstacle avoidance  
+  - Multiple prototypes including lane-following and Bluetooth-controlled cars  
+  - Repo: [arduino-vehicle-control](https://github.com/<your-username>/arduino-vehicle-control)
+
+---
+
+<h2>⚡ Electric Machines & Power Projects</h2>
+
+- <b>PMSynRM / IPMSM Design & Analysis (PEEC Lab)</b>  
+  - Designed PMSynRM and IPMSM geometries in Ansys Maxwell  
+  - Evaluated torque, losses, and saliency ratio for EV-style drives  
+  - Built MATLAB workflows to post-process large FEA datasets and compare physics-informed neural networks to FEA  
+  - Repo: [pmsynrm-ipmsm-ansys-matlab](https://github.com/<your-username>/pmsynrm-ipmsm-ansys-matlab)
+
+- <b>Magnetic Loss & Core Loss Modeling</b>  
+  - MATLAB scripts to compute and plot eddy-current, hysteresis, and total iron losses vs. flux density  
+  - Used for class project / report on AC machine performance  
+  - Repo: [magnetic-losses-matlab](https://github.com/<your-username>/magnetic-losses-matlab)
+
+---
+
+<h2>🛠️ Tech Stack</h2>
+
+- <b>Robotics & Embedded</b>: ROS 2 Humble, Arduino (Mega/Uno), Jetson Orin Nano, OAK-D depth camera, 4D LiDAR  
+- <b>Programming</b>: Python, C, C++, VHDL, basic Java & Visual Basic  
+- <b>Simulation & Design</b>: MATLAB/Simulink, Ansys Maxwell, LTspice, PSpice, AutoCAD, Siemens NX  
+- <b>Testing & Debugging</b>: Oscilloscope, multimeter, soldering, hardware bring-up, structured troubleshooting
+
+---
+
+<h2>📚 What I’m Learning Now</h2>
+
+- Advanced ROS 2 (better node structuring, launch files, and debugging)
+- More robust vision pipelines for lane detection and obstacle avoidance
+- Best practices for deploying autonomous systems on embedded platforms (Jetson, microcontrollers)
+- Industrial vision automation concepts for manufacturing environments
+
+---
+
+<h2> 🤳 Connect with me</h2>
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+<br/>
+
+[github]: https://github.com/<your-username>
+[linkedin]: https://www.linkedin.com/in/<your-linkedin>/
 
 <!--
-**khanhphan511/khanhphan511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**<your-username>/<your-username>** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Ideas to keep this updated:
+- 🔭 I’m currently working on: scale autonomous vehicle + CAN bench
+- 🌱 I’m currently learning: ROS 2, Jetson deployment, vision automation
+- 👯 I’m looking to collaborate on: robotics, autonomous vehicles, electric machines
+- 💬 Ask me about: ROS 2 basics, Arduino motor control, student research in electric machines
 -->
