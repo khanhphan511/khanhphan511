@@ -22,9 +22,8 @@
 
 - <b>Jetson Orin Nano Onboard Integration</b>  
   - Migrated ROS 2 workspace from laptop VM to Jetson Orin Nano for fully onboard autonomy  
-  - Set up device recognition and communication for LiDAR and Arduino Mega over USB/CAN  
+  - Set up device recognition and communication for LiDAR, depth camera and Arduino Mega
   - Focus on headless startup and robust deployment for IGVC-style field tests  
-  - Repo: [jetson-orin-autonomy-setup](https://github.com/<your-username>/jetson-orin-autonomy-setup)
 
 ---
 
@@ -50,12 +49,6 @@
   - Designed PMSynRM and IPMSM geometries in Ansys Maxwell  
   - Evaluated torque, losses, and saliency ratio for EV-style drives  
   - Built MATLAB workflows to post-process large FEA datasets and compare physics-informed neural networks to FEA  
-  - Repo: [pmsynrm-ipmsm-ansys-matlab](https://github.com/<your-username>/pmsynrm-ipmsm-ansys-matlab)
-
-- <b>Magnetic Loss & Core Loss Modeling</b>  
-  - MATLAB scripts to compute and plot eddy-current, hysteresis, and total iron losses vs. flux density  
-  - Used for class project / report on AC machine performance  
-  - Repo: [magnetic-losses-matlab](https://github.com/<your-username>/magnetic-losses-matlab)
 
 ---
 
