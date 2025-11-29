@@ -18,12 +18,15 @@
   - OAK-D depth camera + 4D LiDAR for lane detection and obstacle ranging  
   - Python nodes to compute lane offset / obstacle distance and publish steering & speed commands to Arduino-based motor controllers  
   - ROS 2 drive-state debug indicators (Forward/Stop/Left/Right) and camera overlays to tune thresholds and control responses  
+  - Migrated ROS 2 workspace from laptop virtual machine to Jetson Orin Nano for fully onboard autonomy  
+  - Focus on headless startup and robust deployment for IGVC-style field tests
   - Repo: [scale-autonomous-vehicle-ros2](https://github.com/khanhphan511/scale-autonomous-vehicle-ros2)
 
-- <b>Jetson Orin Nano Onboard Integration</b>  
-  - Migrated ROS 2 workspace from laptop VM to Jetson Orin Nano for fully onboard autonomy  
-  - Set up device recognition and communication for LiDAR, depth camera and Arduino Mega
-  - Focus on headless startup and robust deployment for IGVC-style field tests  
+  
+- <b>Pixy2 ADAS Robotic Car (Active Cruise, Traffic Light, Lane Keeping)</b>  
+  - Small differential-drive car with Pixy2 vision sensor and Arduino  
+  - Implemented object following with safety distance, traffic-light timing logic, time-to-pass decision, and lane keeping  
+  - Repo: [pixy2-adas-robot-car](https://github.com/khanhphan511/pixy2-adas-robot-car)
 
 ---
 
@@ -35,11 +38,6 @@
   - Arduino C/C++ firmware adjusts motor PWM for speed control and braking at configurable stop thresholds  
   - Repo: [can-adaptive-cruise-bench](https://github.com/khanhphan511/can-adaptive-cruise-bench)
 
-- <b>Arduino-Based Drive & Steering Control</b>  
-  - Developed Arduino Mega firmware to control traction and steering motors with PWM  
-  - Integrated speed sensor feedback and implemented firm stop logic (e.g., `stopAll()`, `rearBrake()`, `steerBrake()`) for obstacle avoidance  
-  - Multiple prototypes including lane-following and Bluetooth-controlled cars  
-  - Repo: [arduino-vehicle-control](https://github.com/khanhphan511/scale-autonomous-vehicle-ros2/tree/main/firmware/mega_vehicle_controller)
 
 ---
 
