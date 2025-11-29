@@ -39,7 +39,7 @@
   - Developed Arduino Mega firmware to control traction and steering motors with PWM  
   - Integrated speed sensor feedback and implemented firm stop logic (e.g., `stopAll()`, `rearBrake()`, `steerBrake()`) for obstacle avoidance  
   - Multiple prototypes including lane-following and Bluetooth-controlled cars  
-  - Repo: [arduino-vehicle-control](https://github.com/<your-username>/arduino-vehicle-control)
+  - Repo: [arduino-vehicle-control](https://github.com/khanhphan511/scale-autonomous-vehicle-ros2/tree/main/firmware/mega_vehicle_controller)
 
 ---
 
