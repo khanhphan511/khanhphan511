@@ -77,14 +77,7 @@
 
 ---
 
-<h2> 🤳 Connect with me</h2>
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-<br/>
-
-[github]: https://github.com/<your-username>
-[linkedin]: https://www.linkedin.com/in/<your-linkedin>/
 
 <!--
 **<your-username>/<your-username>** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
