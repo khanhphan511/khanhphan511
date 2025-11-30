@@ -1,5 +1,5 @@
 <h1>Hi, I'm Khanh!<br/>
-<a href="https://github.com/<your-username>">Electrical Engineering Student</a>, 
+<a href="https://github.com/khanhphan511">Electrical Engineering Student</a>, 
 <a>Vision & Automation Enthusiast</a>, 
 <a>Robotics / Autonomous Vehicle Developer</a>
 </h1>
@@ -28,6 +28,10 @@
   - Implemented object following with safety distance, traffic-light timing logic, time-to-pass decision, and lane keeping  
   - Repo: [pixy2-adas-robot-car](https://github.com/khanhphan511/pixy2-adas-robot-car)
 
+- <b>Playdough Rose Automation (ABB IRB 120 Industrial Robot)</b>  
+  - Programmed an ABB IRB 120 six-axis industrial robot using the FlexPendant and RAPID language to perform precision path-planning tasks  
+  - Developed and tested Cartesian and joint-space trajectories to cut a playdough strawberry into a rose and place it into a vase while maintaining smooth, collision-free motion  
+  - Demo video: [Playdough Rose Automation](https://youtube.com/shorts/Cg1ANpr1HYg?feature=share)
 ---
 
 <h2>🚗 Embedded Control & CAN Projects</h2>
@@ -52,7 +56,7 @@
 
 <h2>🛠️ Tech Stack</h2>
 
-- <b>Robotics & Embedded</b>: ROS 2 Humble, Arduino (Mega/Uno), Jetson Orin Nano, OAK-D depth camera, 4D LiDAR  
+- <b>Robotics & Embedded</b>: ROS 2 Humble, Arduino, Jetson Orin Nano, OAK-D depth camera, 4D LiDAR, ABB IRP 120  
 - <b>Programming</b>: Python, C, C++, VHDL, basic Java & Visual Basic  
 - <b>Simulation & Design</b>: MATLAB/Simulink, Ansys Maxwell, JMAG, RT LAB, LTspice, PSpice, AutoCAD, Siemens NX  
 - <b>Testing & Debugging</b>: Oscilloscope, multimeter, soldering, hardware bring-up, structured troubleshooting
