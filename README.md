@@ -31,7 +31,7 @@
 - <b>Playdough Rose Automation (ABB IRB 120 Industrial Robot)</b>  
   - Programmed an ABB IRB 120 six-axis industrial robot using the FlexPendant and RAPID language to perform precision path-planning tasks  
   - Developed and tested Cartesian and joint-space trajectories to cut a playdough strawberry into a rose and place it into a vase while maintaining smooth, collision-free motion  
-  - Demo video: [Playdough Rose Automation](https://youtube.com/shorts/Cg1ANpr1HYg?feature=share)
+  - **Demo video**: [Playdough Rose Automation](https://youtube.com/shorts/Cg1ANpr1HYg?feature=share)
 ---
 
 <h2>🚗 Embedded Control & CAN Projects</h2>
@@ -50,7 +50,7 @@
 - <b>SynRM / PMSynRM / IPMSM Design & Analysis (PEEC Lab)</b>  
   - Designed SynRM, PMSynRM and IPMSM geometries in Ansys Maxwell  
   - Evaluated torque, losses, and saliency ratio for EV-style drives  
-  - Built MATLAB workflows to post-process large FEA datasets and compare physics-informed neural networks to FEA  
+  - Built MATLAB workflows to post-process large FEA datasets and compare physics-informed neural networks to FEA
 
 ---
 
