@@ -51,6 +51,7 @@
   - Designed SynRM, PMSynRM and IPMSM geometries in Ansys Maxwell  
   - Evaluated torque, losses, and saliency ratio for EV-style drives  
   - Built MATLAB workflows to post-process large FEA datasets and compare physics-informed neural networks to FEA
+  - **Article**: [Recharging Sustainable Mobility](https://oakland.edu/oaklandengineer/research/2026/recharging-sustainable-mobility/)
 
 ---
 
