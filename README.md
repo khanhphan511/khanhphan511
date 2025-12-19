@@ -62,12 +62,7 @@
 
 ---
 
-<h2>📚 What I’m Learning Now</h2>
 
-- Advanced ROS 2 (better node structuring, launch files, and debugging)
-- More robust vision pipelines for lane detection and obstacle avoidance
-- Best practices for deploying autonomous systems on embedded platforms (Jetson, microcontrollers)
-- Industrial vision automation concepts for manufacturing environments
 
 
 
