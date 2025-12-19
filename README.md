@@ -1,10 +1,8 @@
 <h1>Hi, I'm Khanh!<br/>
-<a href="https://github.com/khanhphan511">Electrical Engineering Student</a>, 
-<a>Vision & Automation Enthusiast</a>, 
-<a>Robotics / Autonomous Vehicle Developer</a>
+<a href="https://github.com/khanhphan511">Electrical Engineer</a>
 </h1>
 
-🎓 I’m an Electrical Engineering student at Oakland University (graduating December 2025) focused on:
+🎓 B.S. in Electrical Engineering - Oakland University (December 2025) focused on:
 - Scale autonomous vehicles (ride-on car → IGVC-style platform)
 - Machine vision & LiDAR-based obstacle detection
 - CAN-based motor control, embedded systems, and electric machines
