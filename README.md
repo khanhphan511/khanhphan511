@@ -1,5 +1,4 @@
 <h1>Hi, I'm Khanh!<br/>
-<a href="https://github.com/khanhphan511">Electrical Engineer</a>
 </h1>
 
 🎓 B.S. in Electrical Engineering - Oakland University (December 2025) focused on:
