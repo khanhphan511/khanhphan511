@@ -17,13 +17,14 @@
   - ROS 2 drive-state debug indicators (Forward/Stop/Left/Right) and camera overlays to tune thresholds and control responses  
   - Migrated ROS 2 workspace from laptop virtual machine to Jetson Orin Nano for fully onboard autonomy  
   - Focus on headless startup and robust deployment for IGVC-style field tests
-  - Repo: [scale-autonomous-vehicle-ros2](https://github.com/khanhphan511/scale-autonomous-vehicle-ros2)
+  - **Repo**: [scale-autonomous-vehicle-ros2](https://github.com/khanhphan511/scale-autonomous-vehicle-ros2)
+  - **Presentation**: [Senior Design Presentation](https://www.youtube.com/watch?v=iLNIeaacTIE)
 
   
 - <b>Pixy2 ADAS Robotic Car (Active Cruise, Traffic Light, Lane Keeping)</b>  
   - Small differential-drive car with Pixy2 vision sensor and Arduino  
   - Implemented object following with safety distance, traffic-light timing logic, time-to-pass decision, and lane keeping  
-  - Repo: [pixy2-adas-robot-car](https://github.com/khanhphan511/pixy2-adas-robot-car)
+  - **Repo**: [pixy2-adas-robot-car](https://github.com/khanhphan511/pixy2-adas-robot-car)
 
 - <b>Playdough Rose Automation (ABB IRB 120 Industrial Robot)</b>  
   - Programmed an ABB IRB 120 six-axis industrial robot using the FlexPendant and RAPID language to perform precision path-planning tasks  
@@ -37,7 +38,7 @@
   - Built a two-node CAN network with Arduino + MCP2515 controllers  
   - IR distance sensor node sends measurements via CAN frames to a motor-control node  
   - Arduino C/C++ firmware adjusts motor PWM for speed control and braking at configurable stop thresholds  
-  - Repo: [can-adaptive-cruise-bench](https://github.com/khanhphan511/can-adaptive-cruise-bench)
+  - **Repo**: [can-adaptive-cruise-bench](https://github.com/khanhphan511/can-adaptive-cruise-bench)
 
 
 ---
