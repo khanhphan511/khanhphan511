@@ -43,10 +43,10 @@
 
 ---
 
-<h2>⚡ Electric Machines & Power Projects</h2>
+<h2>⚡ Electric Machine Research</h2>
 
-- <b>SynRM / PMSynRM / IPMSM Design & Analysis (PEEC Lab)</b>  
-  - Designed SynRM, PMSynRM and IPMSM geometries in Ansys Maxwell  
+- <b> IPMSM / SynRM / PMSynRM Design & Analysis</b>  
+  - Designed Interior Permanent Magnet Synchronous Machine, Synchronous Reluctance Machine, and Permanent Magnet Synchronous Reluctance Machine geometries in Ansys Maxwell  
   - Evaluated torque, losses, and saliency ratio for EV-style drives  
   - Built MATLAB workflows to post-process large FEA datasets and compare physics-informed neural networks to FEA
   - **Article**: [Recharging Sustainable Mobility](https://oakland.edu/oaklandengineer/research/2026/recharging-sustainable-mobility/)
